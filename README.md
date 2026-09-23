@@ -39,9 +39,12 @@ This repository contains a list of problems I have solved from **LeetCode**, **C
 
 ---
 
-## 🔵 Codeforces (5 Problems)
+## 🔵 Codeforces (8 Problems)
 1. AND, OR, Sort
-2. Falling Concrete
-3. Good Contest
-4. Team
-5. Three Piles
+2. Capitalization
+3. Domino Piling
+4. Falling Concrete
+5. Good Contest
+6. Team
+7. Three Piles
+8. Way Too Long Words
