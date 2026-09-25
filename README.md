@@ -49,3 +49,4 @@ This repository contains a list of problems I have solved from **LeetCode**, **C
 7. Three Piles
 8. Way Too Long Words
 9.Elephant
+10.Turn Into a Palindrome
