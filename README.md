@@ -39,7 +39,7 @@ This repository contains a list of problems I have solved from **LeetCode**, **C
 
 ---
 
-## 🔵 Codeforces (8 Problems)
+## 🔵 Codeforces (10 Problems)
 1. AND, OR, Sort
 2. Capitalization
 3. Domino Piling
